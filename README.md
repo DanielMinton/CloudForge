@@ -15,8 +15,13 @@ CloudForge is a drag-and-drop infrastructure designer that generates production-
 - **Security Scanning**: Built-in checks for common security misconfigurations
 - **Multi-Cloud Support**: Design for AWS, with extensible architecture
 
-## Technical Stack
+## Tech Stack
 
+### Languages
+- **HTML** (1 file) - Static demo page with embedded JavaScript/CSS
+
+### Demonstration Tech
+This is a static HTML demo showcasing the concept. A production implementation would use:
 - **React** - Interactive canvas and UI components
 - **Node.js** - Backend template generation service
 - **AWS SDK** - Direct cloud resource management
